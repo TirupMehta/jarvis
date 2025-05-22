@@ -120,8 +120,8 @@ Jarvis is actively evolving. Here's a preview of what’s coming soon:
 ## Installation
 
 ```bash
-git clone https://github.com/tirupmehta/jarvis-ai-assistant.git
-cd jarvis-ai-assistant
+git clone https://github.com/tirupmehta/jarvis.git
+cd jarvis
 pip install -r requirements.txt
 python jarvis.py
 ```
@@ -154,7 +154,7 @@ Jarvis is developed and maintained by **Tirup Mehta**. Inspired by the next gene
 
 ## License
 
-MIT License. See LICENSE for full terms.
+MIT License. See [LICENCE](LICENSE) for full terms.
 
 ---
 
