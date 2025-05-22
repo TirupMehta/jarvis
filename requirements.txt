@@ -1,0 +1,9 @@
+google-generativeai
+psutil
+pynput
+pygetwindow
+pyperclip
+pycaw; platform_system == "Windows"
+winshell; platform_system == "Windows"
+pyobjc; platform_system == "Darwin"
+comtypes; platform_system == "Windows"
