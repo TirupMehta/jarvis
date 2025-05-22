@@ -14,7 +14,7 @@ Jarvis isn't just another desktop assistant. It's a fully modular, AI-native sol
 * **Plug-and-Play AI Core**: Jarvis can be instantly adapted to support different LLMs (Large Language Models). Simply modify a few lines to switch models.
 * **Fully Customizable AI Integration**: Swap AI models using your own API keys from Google AI Studio. Jarvis gives you total control over the intelligence driving it.
 * **Fast, Lightweight, and Local-Controlled**: No bloated frameworks or hidden backend services — everything runs locally with optional AI-enhanced capabilities.
-* **Completely Free and Open Source**: Jarvis is 100% free to use, with no subscriptions, upsells, or locked features. It is — and always will be — entirely open source and community-driven.
+* **Open Source**: Jarvis is free to use, with no subscriptions, upsells, or locked features. It is — and always will be — entirely open source and community-driven.
 * **Future-Proof and Extensible**: Jarvis is designed with a forward-looking architecture — new capabilities can be added with minimal changes, keeping it both lean and powerful.
 
 ---
